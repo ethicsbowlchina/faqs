@@ -2,7 +2,7 @@
 
 ## What topics are discussed in the ethics bowl?
 
-SIEB gives students the opportunity to learn about applied ethics through the analysis, research, and critical discussion of case studies that incorporate real world ethical conflicts from politics, business, international affairs, popular culture, and their personal lives. Previous topics have included: breastfeeding in public, using photoshop in advertising, dating a friend’s ex, ecotourism, criminal background checks, and reporting in a school newspaper. All the cases are set in the US. For the 2020 case set, please visit the [resources page](https:// sieb2020.github.io/resources).
+SIEB gives students the opportunity to learn about applied ethics through the analysis, research, and critical discussion of case studies that incorporate real world ethical conflicts from politics, business, international affairs, popular culture, and their personal lives. Previous topics have included: breastfeeding in public, using photoshop in advertising, dating a friend’s ex, ecotourism, criminal background checks, and reporting in a school newspaper. All the cases are set in the US. For the 2020 case set, please visit the [resources page](https://sieb2020.github.io/resources).
 
 ## How is ethics bowl different  om a debate?
 
